@@ -1,0 +1,6 @@
+{
+  "name": "Ahilya Footwear - Kicks For Your Clicks",
+  "description": "Official online footwear store for AHILYA FOOTWEAR, Indore. PAN India shipping, sneakers, formals, sports, loafers & WhatsApp instant ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
